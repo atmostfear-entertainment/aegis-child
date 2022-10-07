@@ -1,1 +1,1 @@
-# aeon-child
+# Aeon Child Theme
