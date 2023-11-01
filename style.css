@@ -1,11 +1,22 @@
 /*
-Theme Name:   Aeon Child
-Theme URI:    https://www.atmostfear-entertainement.com
-Description:  Aeon default child theme.
+Theme Name:   Aegis Child Theme
+Theme URI:    https://github.com/atmostfear-entertainment/aegis-child
+Description:  Aegis Child Theme
 Author:       Atmostfear Entertainment
-Author URI:   https://www.atmostfear-entertainment.com
-Template:     aeonwp
+Author URI:   https://www.atmostfear-entertainment.com/
+Template:     aegis
 Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http: //www.gnu.org/licenses/gpl-2.0.html
+License:      GNU General Public License v2 or later
+Text Domain:  Aegis Child Theme
+Tags:         accessibility-ready, blog, block-editor-patterns, block-editor-styles, block-patterns, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, full-site-editing, one-column, portfolio, rtl-language-support, sticky-post, style-variations, template-editing, threaded-comments, translation-ready, two-columns, wide-blocks, woocommerce
+
+Aegis, (c) 2022-2003 Atmostfear Entertainment SAS
+Aegis is distributed under the terms of the GNU GPL.
 */
 
-/* Parent stylesheet should be loaded from functions.php without using @import */
+/**
+ * Add your custom CSS code below this comment.
+ * Only make edits to this file if you have direct access to it on your server, such as to override styles or fix issues.
+ */
