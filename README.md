@@ -49,7 +49,7 @@ After activating the Aegis Child Theme, you can start customizing it:
 **Note**: If there are template files in the child theme, they will override the equivalent file in the parent theme.
 
 ## Support
-For support, please raise [an issue](https://github.com/atmostfear-entertainment/aegis/issues) in the GitHub repository.
+For support, please raise [an issue](https://github.com/atmostfear-entertainment/aegis-child/issues) in the GitHub repository.
 
 ## Contributing
 Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/atmostfear-entertainment/aegis/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute.
